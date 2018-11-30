@@ -23,9 +23,10 @@ allprojects {
 
 - 配置app module的build.gradle 
 ```java
-dependencies {
-    implementation 'com.github.WGwangguan:SeparatedEditText:v1.0'
-}
+	dependencies {
+	        implementation 'com.github.nanyuweiyi:EditPassword:1.0.0'
+	}
+
 ```
 
 ## 如何使用
